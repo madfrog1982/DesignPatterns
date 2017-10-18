@@ -1,0 +1,8 @@
+F:\GitHub\DesignPatterns\src\结构型模式\FacadePattern(外观模式)\FacadePattern.Test\bin\Debug\FacadePattern.Test.exe.config
+F:\GitHub\DesignPatterns\src\结构型模式\FacadePattern(外观模式)\FacadePattern.Test\bin\Debug\FacadePattern.Test.exe
+F:\GitHub\DesignPatterns\src\结构型模式\FacadePattern(外观模式)\FacadePattern.Test\bin\Debug\FacadePattern.Test.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\FacadePattern(外观模式)\FacadePattern.Test\bin\Debug\FacadePattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\FacadePattern(外观模式)\FacadePattern.Test\bin\Debug\FacadePattern.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\FacadePattern(外观模式)\FacadePattern.Test\obj\Debug\FacadePattern.Test.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\src\结构型模式\FacadePattern(外观模式)\FacadePattern.Test\obj\Debug\FacadePattern.Test.exe
+F:\GitHub\DesignPatterns\src\结构型模式\FacadePattern(外观模式)\FacadePattern.Test\obj\Debug\FacadePattern.Test.pdb

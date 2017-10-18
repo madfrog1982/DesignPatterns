@@ -1,0 +1,4 @@
+F:\GitHub\DesignPatterns\src\结构型模式\BridgePattern(桥接模式)\BridgePattern\bin\Debug\BridgePattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\BridgePattern(桥接模式)\BridgePattern\bin\Debug\BridgePattern.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\BridgePattern(桥接模式)\BridgePattern\obj\Debug\BridgePattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\BridgePattern(桥接模式)\BridgePattern\obj\Debug\BridgePattern.pdb

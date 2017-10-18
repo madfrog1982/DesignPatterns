@@ -1,0 +1,16 @@
+F:\GitHub\DesignPatterns\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\bin\Debug\SimpleFactoryPattern.Test.exe.config
+F:\GitHub\DesignPatterns\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\bin\Debug\SimpleFactoryPattern.Test.exe
+F:\GitHub\DesignPatterns\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\bin\Debug\SimpleFactoryPattern.Test.pdb
+F:\GitHub\DesignPatterns\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\bin\Debug\SimpleFactoryPattern.dll
+F:\GitHub\DesignPatterns\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\bin\Debug\SimpleFactoryPattern.pdb
+F:\GitHub\DesignPatterns\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\obj\Debug\SimpleFactoryPattern.Test.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\obj\Debug\SimpleFactoryPattern.Test.exe
+F:\GitHub\DesignPatterns\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\obj\Debug\SimpleFactoryPattern.Test.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\bin\Debug\SimpleFactoryPattern.Test.exe.config
+F:\GitHub\DesignPatterns\src\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\bin\Debug\SimpleFactoryPattern.Test.exe
+F:\GitHub\DesignPatterns\src\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\bin\Debug\SimpleFactoryPattern.Test.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\bin\Debug\SimpleFactoryPattern.dll
+F:\GitHub\DesignPatterns\src\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\bin\Debug\SimpleFactoryPattern.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\obj\Debug\SimpleFactoryPattern.Test.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\src\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\obj\Debug\SimpleFactoryPattern.Test.exe
+F:\GitHub\DesignPatterns\src\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern.Test\obj\Debug\SimpleFactoryPattern.Test.pdb

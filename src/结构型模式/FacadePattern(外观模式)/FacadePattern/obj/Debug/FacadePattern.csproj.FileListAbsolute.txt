@@ -1,0 +1,4 @@
+F:\GitHub\DesignPatterns\src\结构型模式\FacadePattern(外观模式)\FacadePattern\bin\Debug\FacadePattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\FacadePattern(外观模式)\FacadePattern\bin\Debug\FacadePattern.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\FacadePattern(外观模式)\FacadePattern\obj\Debug\FacadePattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\FacadePattern(外观模式)\FacadePattern\obj\Debug\FacadePattern.pdb

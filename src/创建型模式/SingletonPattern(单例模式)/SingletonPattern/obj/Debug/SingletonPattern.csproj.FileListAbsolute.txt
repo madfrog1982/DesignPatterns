@@ -1,0 +1,9 @@
+F:\GitHub\DesignPatterns\创建型模式\SingletonPattern(单例模式)\SingletonPattern\bin\Debug\SingletonPattern.dll
+F:\GitHub\DesignPatterns\创建型模式\SingletonPattern(单例模式)\SingletonPattern\bin\Debug\SingletonPattern.pdb
+F:\GitHub\DesignPatterns\创建型模式\SingletonPattern(单例模式)\SingletonPattern\obj\Debug\SingletonPattern.dll
+F:\GitHub\DesignPatterns\创建型模式\SingletonPattern(单例模式)\SingletonPattern\obj\Debug\SingletonPattern.pdb
+F:\GitHub\DesignPatterns\创建型模式\SingletonPattern(单例模式)\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\src\创建型模式\SingletonPattern(单例模式)\SingletonPattern\bin\Debug\SingletonPattern.dll
+F:\GitHub\DesignPatterns\src\创建型模式\SingletonPattern(单例模式)\SingletonPattern\bin\Debug\SingletonPattern.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\SingletonPattern(单例模式)\SingletonPattern\obj\Debug\SingletonPattern.dll
+F:\GitHub\DesignPatterns\src\创建型模式\SingletonPattern(单例模式)\SingletonPattern\obj\Debug\SingletonPattern.pdb

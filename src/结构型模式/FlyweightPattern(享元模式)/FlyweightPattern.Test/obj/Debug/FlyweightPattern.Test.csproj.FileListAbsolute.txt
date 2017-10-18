@@ -1,0 +1,8 @@
+F:\GitHub\DesignPatterns\src\结构型模式\FlyweightPattern(享元模式)\FlyweightPattern.Test\bin\Debug\FlyweightPattern.Test.exe.config
+F:\GitHub\DesignPatterns\src\结构型模式\FlyweightPattern(享元模式)\FlyweightPattern.Test\bin\Debug\FlyweightPattern.Test.exe
+F:\GitHub\DesignPatterns\src\结构型模式\FlyweightPattern(享元模式)\FlyweightPattern.Test\bin\Debug\FlyweightPattern.Test.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\FlyweightPattern(享元模式)\FlyweightPattern.Test\bin\Debug\FlyweightPattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\FlyweightPattern(享元模式)\FlyweightPattern.Test\bin\Debug\FlyweightPattern.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\FlyweightPattern(享元模式)\FlyweightPattern.Test\obj\Debug\FlyweightPattern.Test.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\src\结构型模式\FlyweightPattern(享元模式)\FlyweightPattern.Test\obj\Debug\FlyweightPattern.Test.exe
+F:\GitHub\DesignPatterns\src\结构型模式\FlyweightPattern(享元模式)\FlyweightPattern.Test\obj\Debug\FlyweightPattern.Test.pdb

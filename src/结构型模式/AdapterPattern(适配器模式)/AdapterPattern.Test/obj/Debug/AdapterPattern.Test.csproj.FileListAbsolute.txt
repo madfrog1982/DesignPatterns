@@ -1,0 +1,8 @@
+F:\GitHub\DesignPatterns\src\结构型模式\AdapterPattern(适配器模式)\AdapterPattern.Test\bin\Debug\AdapterPattern.Test.exe.config
+F:\GitHub\DesignPatterns\src\结构型模式\AdapterPattern(适配器模式)\AdapterPattern.Test\bin\Debug\AdapterPattern.Test.exe
+F:\GitHub\DesignPatterns\src\结构型模式\AdapterPattern(适配器模式)\AdapterPattern.Test\bin\Debug\AdapterPattern.Test.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\AdapterPattern(适配器模式)\AdapterPattern.Test\bin\Debug\AdapterPattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\AdapterPattern(适配器模式)\AdapterPattern.Test\bin\Debug\AdapterPattern.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\AdapterPattern(适配器模式)\AdapterPattern.Test\obj\Debug\AdapterPattern.Test.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\src\结构型模式\AdapterPattern(适配器模式)\AdapterPattern.Test\obj\Debug\AdapterPattern.Test.exe
+F:\GitHub\DesignPatterns\src\结构型模式\AdapterPattern(适配器模式)\AdapterPattern.Test\obj\Debug\AdapterPattern.Test.pdb

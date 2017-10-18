@@ -1,0 +1,8 @@
+F:\GitHub\DesignPatterns\src\创建型模式\PrototypePattern(原型模式)\PrototypePattern.Test\bin\Debug\PrototypePattern.Test.exe.config
+F:\GitHub\DesignPatterns\src\创建型模式\PrototypePattern(原型模式)\PrototypePattern.Test\bin\Debug\PrototypePattern.Test.exe
+F:\GitHub\DesignPatterns\src\创建型模式\PrototypePattern(原型模式)\PrototypePattern.Test\bin\Debug\PrototypePattern.Test.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\PrototypePattern(原型模式)\PrototypePattern.Test\bin\Debug\PrototypePattern.dll
+F:\GitHub\DesignPatterns\src\创建型模式\PrototypePattern(原型模式)\PrototypePattern.Test\bin\Debug\PrototypePattern.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\PrototypePattern(原型模式)\PrototypePattern.Test\obj\Debug\PrototypePattern.Test.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\src\创建型模式\PrototypePattern(原型模式)\PrototypePattern.Test\obj\Debug\PrototypePattern.Test.exe
+F:\GitHub\DesignPatterns\src\创建型模式\PrototypePattern(原型模式)\PrototypePattern.Test\obj\Debug\PrototypePattern.Test.pdb

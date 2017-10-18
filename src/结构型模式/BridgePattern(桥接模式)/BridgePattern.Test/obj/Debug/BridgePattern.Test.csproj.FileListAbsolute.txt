@@ -1,0 +1,8 @@
+F:\GitHub\DesignPatterns\src\结构型模式\BridgePattern(桥接模式)\BridgePattern.Test\bin\Debug\BridgePattern.Test.exe.config
+F:\GitHub\DesignPatterns\src\结构型模式\BridgePattern(桥接模式)\BridgePattern.Test\bin\Debug\BridgePattern.Test.exe
+F:\GitHub\DesignPatterns\src\结构型模式\BridgePattern(桥接模式)\BridgePattern.Test\bin\Debug\BridgePattern.Test.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\BridgePattern(桥接模式)\BridgePattern.Test\bin\Debug\BridgePattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\BridgePattern(桥接模式)\BridgePattern.Test\bin\Debug\BridgePattern.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\BridgePattern(桥接模式)\BridgePattern.Test\obj\Debug\BridgePattern.Test.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\src\结构型模式\BridgePattern(桥接模式)\BridgePattern.Test\obj\Debug\BridgePattern.Test.exe
+F:\GitHub\DesignPatterns\src\结构型模式\BridgePattern(桥接模式)\BridgePattern.Test\obj\Debug\BridgePattern.Test.pdb

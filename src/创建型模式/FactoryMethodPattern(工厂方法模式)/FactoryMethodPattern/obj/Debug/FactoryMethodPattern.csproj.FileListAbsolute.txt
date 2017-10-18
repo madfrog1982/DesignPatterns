@@ -1,0 +1,9 @@
+F:\GitHub\DesignPatterns\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.dll
+F:\GitHub\DesignPatterns\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+F:\GitHub\DesignPatterns\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.dll
+F:\GitHub\DesignPatterns\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.dll
+F:\GitHub\DesignPatterns\src\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.dll
+F:\GitHub\DesignPatterns\src\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb

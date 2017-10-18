@@ -1,0 +1,16 @@
+F:\GitHub\DesignPatterns\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\bin\Debug\FactoryMethodPattern.Test.exe.config
+F:\GitHub\DesignPatterns\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\bin\Debug\FactoryMethodPattern.Test.exe
+F:\GitHub\DesignPatterns\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\bin\Debug\FactoryMethodPattern.Test.pdb
+F:\GitHub\DesignPatterns\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\bin\Debug\FactoryMethodPattern.dll
+F:\GitHub\DesignPatterns\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\bin\Debug\FactoryMethodPattern.pdb
+F:\GitHub\DesignPatterns\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\obj\Debug\FactoryMethodPattern.Test.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\obj\Debug\FactoryMethodPattern.Test.exe
+F:\GitHub\DesignPatterns\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\obj\Debug\FactoryMethodPattern.Test.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\bin\Debug\FactoryMethodPattern.Test.exe.config
+F:\GitHub\DesignPatterns\src\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\obj\Debug\FactoryMethodPattern.Test.exe
+F:\GitHub\DesignPatterns\src\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\obj\Debug\FactoryMethodPattern.Test.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\bin\Debug\FactoryMethodPattern.Test.exe
+F:\GitHub\DesignPatterns\src\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\bin\Debug\FactoryMethodPattern.Test.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\bin\Debug\FactoryMethodPattern.dll
+F:\GitHub\DesignPatterns\src\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\bin\Debug\FactoryMethodPattern.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\FactoryMethodPattern(工厂方法模式)\FactoryMethodPattern.Test\obj\Debug\FactoryMethodPattern.Test.csprojResolveAssemblyReference.cache

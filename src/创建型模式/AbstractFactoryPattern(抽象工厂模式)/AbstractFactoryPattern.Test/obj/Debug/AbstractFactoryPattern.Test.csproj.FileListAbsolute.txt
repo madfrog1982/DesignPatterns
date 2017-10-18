@@ -1,0 +1,8 @@
+F:\GitHub\DesignPatterns\src\创建型模式\AbstractFactoryPattern(抽象工厂模式)\AbstractFactoryPattern.Test\bin\Debug\AbstractFactoryPattern.Test.exe.config
+F:\GitHub\DesignPatterns\src\创建型模式\AbstractFactoryPattern(抽象工厂模式)\AbstractFactoryPattern.Test\bin\Debug\AbstractFactoryPattern.Test.exe
+F:\GitHub\DesignPatterns\src\创建型模式\AbstractFactoryPattern(抽象工厂模式)\AbstractFactoryPattern.Test\bin\Debug\AbstractFactoryPattern.Test.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\AbstractFactoryPattern(抽象工厂模式)\AbstractFactoryPattern.Test\bin\Debug\AbstractFactoryPattern.dll
+F:\GitHub\DesignPatterns\src\创建型模式\AbstractFactoryPattern(抽象工厂模式)\AbstractFactoryPattern.Test\bin\Debug\AbstractFactoryPattern.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\AbstractFactoryPattern(抽象工厂模式)\AbstractFactoryPattern.Test\obj\Debug\AbstractFactoryPattern.Test.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\src\创建型模式\AbstractFactoryPattern(抽象工厂模式)\AbstractFactoryPattern.Test\obj\Debug\AbstractFactoryPattern.Test.exe
+F:\GitHub\DesignPatterns\src\创建型模式\AbstractFactoryPattern(抽象工厂模式)\AbstractFactoryPattern.Test\obj\Debug\AbstractFactoryPattern.Test.pdb

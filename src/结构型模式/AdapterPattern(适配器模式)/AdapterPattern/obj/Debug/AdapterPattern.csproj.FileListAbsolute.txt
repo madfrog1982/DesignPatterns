@@ -1,0 +1,4 @@
+F:\GitHub\DesignPatterns\src\结构型模式\AdapterPattern(适配器模式)\AdapterPattern\bin\Debug\AdapterPattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\AdapterPattern(适配器模式)\AdapterPattern\bin\Debug\AdapterPattern.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\AdapterPattern(适配器模式)\AdapterPattern\obj\Debug\AdapterPattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\AdapterPattern(适配器模式)\AdapterPattern\obj\Debug\AdapterPattern.pdb

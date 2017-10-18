@@ -1,0 +1,8 @@
+F:\GitHub\DesignPatterns\src\结构型模式\CompositePattern(组合模式)\CompositePattern.Test\bin\Debug\CompositePattern.Test.exe.config
+F:\GitHub\DesignPatterns\src\结构型模式\CompositePattern(组合模式)\CompositePattern.Test\bin\Debug\CompositePattern.Test.exe
+F:\GitHub\DesignPatterns\src\结构型模式\CompositePattern(组合模式)\CompositePattern.Test\bin\Debug\CompositePattern.Test.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\CompositePattern(组合模式)\CompositePattern.Test\bin\Debug\CompositePattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\CompositePattern(组合模式)\CompositePattern.Test\bin\Debug\CompositePattern.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\CompositePattern(组合模式)\CompositePattern.Test\obj\Debug\CompositePattern.Test.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\src\结构型模式\CompositePattern(组合模式)\CompositePattern.Test\obj\Debug\CompositePattern.Test.exe
+F:\GitHub\DesignPatterns\src\结构型模式\CompositePattern(组合模式)\CompositePattern.Test\obj\Debug\CompositePattern.Test.pdb

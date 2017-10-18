@@ -1,0 +1,4 @@
+F:\GitHub\DesignPatterns\src\结构型模式\CompositePattern(组合模式)\CompositePattern\bin\Debug\CompositePattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\CompositePattern(组合模式)\CompositePattern\bin\Debug\CompositePattern.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\CompositePattern(组合模式)\CompositePattern\obj\Debug\CompositePattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\CompositePattern(组合模式)\CompositePattern\obj\Debug\CompositePattern.pdb

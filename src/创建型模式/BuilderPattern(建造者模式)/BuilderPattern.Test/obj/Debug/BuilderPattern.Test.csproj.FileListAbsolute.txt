@@ -1,0 +1,8 @@
+F:\GitHub\DesignPatterns\src\创建型模式\BuilderPattern(建造者模式)\BuilderPattern.Test\bin\Debug\BuilderPattern.Test.exe.config
+F:\GitHub\DesignPatterns\src\创建型模式\BuilderPattern(建造者模式)\BuilderPattern.Test\bin\Debug\BuilderPattern.Test.exe
+F:\GitHub\DesignPatterns\src\创建型模式\BuilderPattern(建造者模式)\BuilderPattern.Test\bin\Debug\BuilderPattern.Test.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\BuilderPattern(建造者模式)\BuilderPattern.Test\bin\Debug\BuilderPattern.dll
+F:\GitHub\DesignPatterns\src\创建型模式\BuilderPattern(建造者模式)\BuilderPattern.Test\bin\Debug\BuilderPattern.pdb
+F:\GitHub\DesignPatterns\src\创建型模式\BuilderPattern(建造者模式)\BuilderPattern.Test\obj\Debug\BuilderPattern.Test.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\src\创建型模式\BuilderPattern(建造者模式)\BuilderPattern.Test\obj\Debug\BuilderPattern.Test.exe
+F:\GitHub\DesignPatterns\src\创建型模式\BuilderPattern(建造者模式)\BuilderPattern.Test\obj\Debug\BuilderPattern.Test.pdb
