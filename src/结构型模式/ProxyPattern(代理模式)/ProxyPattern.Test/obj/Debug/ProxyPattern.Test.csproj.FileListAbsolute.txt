@@ -1,0 +1,8 @@
+F:\GitHub\DesignPatterns\src\结构型模式\ProxyPattern(代理模式)\ProxyPattern.Test\bin\Debug\ProxyPattern.Test.exe.config
+F:\GitHub\DesignPatterns\src\结构型模式\ProxyPattern(代理模式)\ProxyPattern.Test\bin\Debug\ProxyPattern.Test.exe
+F:\GitHub\DesignPatterns\src\结构型模式\ProxyPattern(代理模式)\ProxyPattern.Test\bin\Debug\ProxyPattern.Test.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\ProxyPattern(代理模式)\ProxyPattern.Test\bin\Debug\ProxyPattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\ProxyPattern(代理模式)\ProxyPattern.Test\bin\Debug\ProxyPattern.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\ProxyPattern(代理模式)\ProxyPattern.Test\obj\Debug\ProxyPattern.Test.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\src\结构型模式\ProxyPattern(代理模式)\ProxyPattern.Test\obj\Debug\ProxyPattern.Test.exe
+F:\GitHub\DesignPatterns\src\结构型模式\ProxyPattern(代理模式)\ProxyPattern.Test\obj\Debug\ProxyPattern.Test.pdb

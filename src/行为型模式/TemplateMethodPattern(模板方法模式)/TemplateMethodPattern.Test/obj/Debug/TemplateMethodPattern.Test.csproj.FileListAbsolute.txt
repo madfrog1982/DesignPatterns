@@ -1,0 +1,8 @@
+F:\GitHub\DesignPatterns\src\行为型模式\TemplateMethodPattern(模板方法模式)\TemplateMethodPattern.Test\bin\Debug\TemplateMethodPattern.Test.exe.config
+F:\GitHub\DesignPatterns\src\行为型模式\TemplateMethodPattern(模板方法模式)\TemplateMethodPattern.Test\bin\Debug\TemplateMethodPattern.Test.exe
+F:\GitHub\DesignPatterns\src\行为型模式\TemplateMethodPattern(模板方法模式)\TemplateMethodPattern.Test\bin\Debug\TemplateMethodPattern.Test.pdb
+F:\GitHub\DesignPatterns\src\行为型模式\TemplateMethodPattern(模板方法模式)\TemplateMethodPattern.Test\bin\Debug\TemplateMethodPattern.dll
+F:\GitHub\DesignPatterns\src\行为型模式\TemplateMethodPattern(模板方法模式)\TemplateMethodPattern.Test\bin\Debug\TemplateMethodPattern.pdb
+F:\GitHub\DesignPatterns\src\行为型模式\TemplateMethodPattern(模板方法模式)\TemplateMethodPattern.Test\obj\Debug\TemplateMethodPattern.Test.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\src\行为型模式\TemplateMethodPattern(模板方法模式)\TemplateMethodPattern.Test\obj\Debug\TemplateMethodPattern.Test.exe
+F:\GitHub\DesignPatterns\src\行为型模式\TemplateMethodPattern(模板方法模式)\TemplateMethodPattern.Test\obj\Debug\TemplateMethodPattern.Test.pdb

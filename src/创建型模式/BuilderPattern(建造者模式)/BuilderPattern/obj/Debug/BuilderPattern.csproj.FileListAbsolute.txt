@@ -2,4 +2,3 @@ F:\GitHub\DesignPatterns\src\创建型模式\BuilderPattern(建造者模式)\Bui
 F:\GitHub\DesignPatterns\src\创建型模式\BuilderPattern(建造者模式)\BuilderPattern\bin\Debug\BuilderPattern.pdb
 F:\GitHub\DesignPatterns\src\创建型模式\BuilderPattern(建造者模式)\BuilderPattern\obj\Debug\BuilderPattern.dll
 F:\GitHub\DesignPatterns\src\创建型模式\BuilderPattern(建造者模式)\BuilderPattern\obj\Debug\BuilderPattern.pdb
-F:\GitHub\DesignPatterns\src\创建型模式\BuilderPattern(建造者模式)\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache

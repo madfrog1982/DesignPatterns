@@ -1,0 +1,5 @@
+F:\GitHub\DesignPatterns\src\行为型模式\ObserverPattern(观察者模式)\ObserverPattern.Test\bin\Debug\ObserverPattern.Test.exe.config
+F:\GitHub\DesignPatterns\src\行为型模式\ObserverPattern(观察者模式)\ObserverPattern.Test\bin\Debug\ObserverPattern.Test.exe
+F:\GitHub\DesignPatterns\src\行为型模式\ObserverPattern(观察者模式)\ObserverPattern.Test\bin\Debug\ObserverPattern.Test.pdb
+F:\GitHub\DesignPatterns\src\行为型模式\ObserverPattern(观察者模式)\ObserverPattern.Test\obj\Debug\ObserverPattern.Test.exe
+F:\GitHub\DesignPatterns\src\行为型模式\ObserverPattern(观察者模式)\ObserverPattern.Test\obj\Debug\ObserverPattern.Test.pdb

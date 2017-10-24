@@ -1,0 +1,4 @@
+F:\GitHub\DesignPatterns\src\行为型模式\ObserverPattern(观察者模式)\ObserverPattern\bin\Debug\ObserverPattern.dll
+F:\GitHub\DesignPatterns\src\行为型模式\ObserverPattern(观察者模式)\ObserverPattern\bin\Debug\ObserverPattern.pdb
+F:\GitHub\DesignPatterns\src\行为型模式\ObserverPattern(观察者模式)\ObserverPattern\obj\Debug\ObserverPattern.dll
+F:\GitHub\DesignPatterns\src\行为型模式\ObserverPattern(观察者模式)\ObserverPattern\obj\Debug\ObserverPattern.pdb

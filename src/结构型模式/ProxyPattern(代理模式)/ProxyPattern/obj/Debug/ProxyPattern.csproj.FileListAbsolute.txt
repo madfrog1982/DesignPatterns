@@ -1,0 +1,4 @@
+F:\GitHub\DesignPatterns\src\结构型模式\ProxyPattern(代理模式)\ProxyPattern\bin\Debug\ProxyPattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\ProxyPattern(代理模式)\ProxyPattern\bin\Debug\ProxyPattern.pdb
+F:\GitHub\DesignPatterns\src\结构型模式\ProxyPattern(代理模式)\ProxyPattern\obj\Debug\ProxyPattern.dll
+F:\GitHub\DesignPatterns\src\结构型模式\ProxyPattern(代理模式)\ProxyPattern\obj\Debug\ProxyPattern.pdb

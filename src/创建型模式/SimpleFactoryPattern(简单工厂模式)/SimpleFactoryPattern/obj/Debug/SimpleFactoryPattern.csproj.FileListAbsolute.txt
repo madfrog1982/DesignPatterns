@@ -6,4 +6,3 @@ F:\GitHub\DesignPatterns\src\创建型模式\SimpleFactoryPattern(简单工厂�
 F:\GitHub\DesignPatterns\src\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.pdb
 F:\GitHub\DesignPatterns\src\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.dll
 F:\GitHub\DesignPatterns\src\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.pdb
-F:\GitHub\DesignPatterns\src\创建型模式\SimpleFactoryPattern(简单工厂模式)\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.csprojResolveAssemblyReference.cache

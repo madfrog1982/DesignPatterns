@@ -2,4 +2,3 @@ F:\GitHub\DesignPatterns\src\创建型模式\PrototypePattern(原型模式)\Prot
 F:\GitHub\DesignPatterns\src\创建型模式\PrototypePattern(原型模式)\PrototypePattern\bin\Debug\PrototypePattern.pdb
 F:\GitHub\DesignPatterns\src\创建型模式\PrototypePattern(原型模式)\PrototypePattern\obj\Debug\PrototypePattern.dll
 F:\GitHub\DesignPatterns\src\创建型模式\PrototypePattern(原型模式)\PrototypePattern\obj\Debug\PrototypePattern.pdb
-F:\GitHub\DesignPatterns\src\创建型模式\PrototypePattern(原型模式)\PrototypePattern\obj\Debug\PrototypePattern.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+F:\GitHub\DesignPatterns\src\行为型模式\IteratorPattern(迭代器模式)\IteratorPattern.Test\bin\Debug\IteratorPattern.Test.exe.config
+F:\GitHub\DesignPatterns\src\行为型模式\IteratorPattern(迭代器模式)\IteratorPattern.Test\bin\Debug\IteratorPattern.Test.exe
+F:\GitHub\DesignPatterns\src\行为型模式\IteratorPattern(迭代器模式)\IteratorPattern.Test\bin\Debug\IteratorPattern.Test.pdb
+F:\GitHub\DesignPatterns\src\行为型模式\IteratorPattern(迭代器模式)\IteratorPattern.Test\bin\Debug\IteratorPattern.dll
+F:\GitHub\DesignPatterns\src\行为型模式\IteratorPattern(迭代器模式)\IteratorPattern.Test\bin\Debug\IteratorPattern.pdb
+F:\GitHub\DesignPatterns\src\行为型模式\IteratorPattern(迭代器模式)\IteratorPattern.Test\obj\Debug\IteratorPattern.Test.csprojResolveAssemblyReference.cache
+F:\GitHub\DesignPatterns\src\行为型模式\IteratorPattern(迭代器模式)\IteratorPattern.Test\obj\Debug\IteratorPattern.Test.exe
+F:\GitHub\DesignPatterns\src\行为型模式\IteratorPattern(迭代器模式)\IteratorPattern.Test\obj\Debug\IteratorPattern.Test.pdb
